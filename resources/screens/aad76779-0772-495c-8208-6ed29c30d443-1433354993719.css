@@ -1,0 +1,89 @@
+#s-aad76779-0772-495c-8208-6ed29c30d443 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-aad76779-0772-495c-8208-6ed29c30d443 > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-aad76779-0772-495c-8208-6ed29c30d443 #s-Image_1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 322px;
+  height: 568px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-aad76779-0772-495c-8208-6ed29c30d443 #s-Hotspot_1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 47px;
+  height: 47px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-aad76779-0772-495c-8208-6ed29c30d443 #s-Hotspot_6 {
+  position: absolute;
+  top: 248px;
+  left: -1px;
+  width: 322px;
+  height: 320px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-aad76779-0772-495c-8208-6ed29c30d443 #s-Hotspot_4 {
+  position: absolute;
+  top: 46px;
+  left: 243px;
+  width: 77px;
+  height: 36px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-aad76779-0772-495c-8208-6ed29c30d443 #s-Hotspot_3 {
+  position: absolute;
+  top: 46px;
+  left: 163px;
+  width: 77px;
+  height: 36px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-aad76779-0772-495c-8208-6ed29c30d443 #s-Hotspot_5 {
+  position: absolute;
+  top: 46px;
+  left: 0px;
+  width: 77px;
+  height: 36px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-aad76779-0772-495c-8208-6ed29c30d443 #s-Hotspot_7 {
+  position: absolute;
+  top: 519px;
+  left: 9px;
+  width: 303px;
+  height: 42px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+.ui-page {
+  overflow-x: hidden;
+}
+#s-aad76779-0772-495c-8208-6ed29c30d443 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

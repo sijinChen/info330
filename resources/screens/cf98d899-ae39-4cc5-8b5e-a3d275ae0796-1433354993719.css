@@ -1,0 +1,49 @@
+#s-cf98d899-ae39-4cc5-8b5e-a3d275ae0796 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-cf98d899-ae39-4cc5-8b5e-a3d275ae0796 > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-cf98d899-ae39-4cc5-8b5e-a3d275ae0796 #s-Image_1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 322px;
+  height: 568px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-cf98d899-ae39-4cc5-8b5e-a3d275ae0796 #s-Hotspot_1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 47px;
+  height: 47px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-cf98d899-ae39-4cc5-8b5e-a3d275ae0796 #s-Hotspot_2 {
+  position: absolute;
+  top: 325px;
+  left: 73px;
+  width: 93px;
+  height: 78px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+.ui-page {
+  overflow-x: hidden;
+}
+#s-cf98d899-ae39-4cc5-8b5e-a3d275ae0796 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

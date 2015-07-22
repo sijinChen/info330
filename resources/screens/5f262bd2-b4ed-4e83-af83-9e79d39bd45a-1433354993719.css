@@ -1,0 +1,89 @@
+#s-5f262bd2-b4ed-4e83-af83-9e79d39bd45a > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-5f262bd2-b4ed-4e83-af83-9e79d39bd45a > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-5f262bd2-b4ed-4e83-af83-9e79d39bd45a #s-Image_1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 322px;
+  height: 568px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-5f262bd2-b4ed-4e83-af83-9e79d39bd45a #s-Hotspot_1 {
+  position: absolute;
+  top: 108px;
+  left: 8px;
+  width: 75px;
+  height: 38px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-5f262bd2-b4ed-4e83-af83-9e79d39bd45a #s-Hotspot_2 {
+  position: absolute;
+  top: 108px;
+  left: 82px;
+  width: 75px;
+  height: 38px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-5f262bd2-b4ed-4e83-af83-9e79d39bd45a #s-Hotspot_3 {
+  position: absolute;
+  top: 108px;
+  left: 162px;
+  width: 75px;
+  height: 38px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-5f262bd2-b4ed-4e83-af83-9e79d39bd45a #s-Hotspot_4 {
+  position: absolute;
+  top: 108px;
+  left: 236px;
+  width: 75px;
+  height: 38px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-5f262bd2-b4ed-4e83-af83-9e79d39bd45a #s-Hotspot_6 {
+  position: absolute;
+  top: 143px;
+  left: 0px;
+  width: 322px;
+  height: 425px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-5f262bd2-b4ed-4e83-af83-9e79d39bd45a #s-Hotspot_5 {
+  position: absolute;
+  top: 205px;
+  left: 15px;
+  width: 294px;
+  height: 56px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+.ui-page {
+  overflow-x: hidden;
+}
+#s-5f262bd2-b4ed-4e83-af83-9e79d39bd45a > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
